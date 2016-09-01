@@ -2,20 +2,20 @@ url: http://streetturtle.github.io
 projectUrl: jekyl-cv-crafter
 
 person:
-  name: Michelangelo
-  profesion: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: --
-  github: /streetturtle
-  stackoverflow: /streetturtle
+  name: Cristian Pachacama
+  profesion: Ingenieria Matemática
+  location: viviendo en Quito
+  citizenship: EC
+  email: cristian.pachacama01@gmail.com
+  site: https://cristianpachacama.github.io
+  phone: 09588732xx
+  github: /CristianPachacama
+  stackoverflow: /CristianPS
 
 career:
- - position: Foot Clan Antagonist
-   company: TMNT inc.
-   location: New York, USA
+ - position: Estudiante 
+   company: Escuela Politécnica Nacional
+   location: Quito, EC
    dates: September 2014 - current
    summary: Physically the smallest of the Turtles and the least mature. Mikey is easily distracted and enthusiastic about... well, pretty much everything. He's also extremely creative. He has a thousand ideas, and every now and then, one of them will be brilliant. This combination of creativity and lack of focus gives him a kind of flow that the other Turtles cannot match. He's a social mutant and more than the others, pines to be part of the real world.
    accomplishments:
@@ -39,15 +39,15 @@ technicalSkills:
     - tr: "First of the turtles to taste pizza"
     - tr: "Very proud of his talent for naming thing"
   backend:
-   - name: Ninjutsu
+   - name: Rstudio
      level: 90
-   - name: Kusarigama
-     level: 80
+   - name: MAtlab
+     level: 70
   frontend:
-   - name: Cooking Skills
+   - name: LAteX
      level: 80
-   - name: Pranks
-     level: 90
+   - name: Eviews
+     level: 60
   other:
    - name: Shadow Puppet Skill
      level: 90
